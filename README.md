@@ -21,7 +21,7 @@ This work implements a specialized dual-branch neural network designed for high-
 ### 3. [Bayesian HPO Optimization](https://www.kaggle.com/code/ibongarciagomez/nb03-optuna-hpo-optimization)
 This framework executes an 11-hour Bayesian hyperparameter optimization search using the Optuna library to tune 14 critical parameters across the entire training pipeline. By implementing aggressive percentile pruning to manage compute resources, the search identifies the optimal balance for the composite loss function and focal alpha weights, maximizing the network’s sensitivity to subtle signal fluctuations.
 
-### 4. [Multi-Seed Validation & Robustness](https://www.kaggle.com/code/igarciag/04-multi-seed-validation)
+### 4. [Multi-Seed Validation & Robustness](https://www.kaggle.com/code/ibongarciagomez/04-multi-seed-validation-and-robustness-analysis)
 This validation suite ensures the scientific integrity and robustness of the reconstruction model by performing a multi-seed statistical analysis. By evaluating the model across multiple random initializations and analyzing snapshot ensemble stability, the notebook confirms that the achieved spatial resolutions are consistent and statistically significant.
 
 ---
