@@ -28,7 +28,7 @@ This validation suite ensures the scientific integrity and robustness of the rec
 
 ## 📊 Dataset
 The associated dataset, **TPA-3DT-MultiDomain-SubMicron**, contains 17,473 laser-induced current events with high-granularity waveforms and hand-crafted symmetry features. 
-* **Available on Kaggle:** [TPA-TCT Research Project Facil](https://www.kaggle.com/datasets/igarciag/3d-silicon-submicron-tpa).
+* **Available on Kaggle:** [3D-Silicon-SubMicron-TPA](https://www.kaggle.com/datasets/igarciag/3d-silicon-submicron-tpa).
 
 ---
 
