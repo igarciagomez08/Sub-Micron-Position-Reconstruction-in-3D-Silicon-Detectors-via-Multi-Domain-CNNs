@@ -1,0 +1,2 @@
+# Sub-Micron-Position-Reconstruction-in-3D-Silicon-Detectors-via-Multi-Domain-CNNs
+This repository contains the complete deep learning pipeline for high-precision hit reconstruction in 3D-trench silicon pixels using the Two-Photon Absorption Transient Current Technique (TPA-TCT). The system achieves a record fundamental resolution of 0.80μm, outperforming the 2024 JINST state-of-the-art benchmarks (1.5μm) for similar technologies
